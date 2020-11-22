@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labont_Dumitru_Lab6", "Labont_Dumitru_Lab6.csproj", "{0C35CB0E-39AC-4DFA-A40C-24C4F25450C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{5191807B-ED93-4F56-9DD4-026D06B7FB9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C35CB0E-39AC-4DFA-A40C-24C4F25450C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C35CB0E-39AC-4DFA-A40C-24C4F25450C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C35CB0E-39AC-4DFA-A40C-24C4F25450C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C35CB0E-39AC-4DFA-A40C-24C4F25450C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5191807B-ED93-4F56-9DD4-026D06B7FB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5191807B-ED93-4F56-9DD4-026D06B7FB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5191807B-ED93-4F56-9DD4-026D06B7FB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5191807B-ED93-4F56-9DD4-026D06B7FB9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0099E4B3-15B3-48DD-9404-2C0AD5364705}
+	EndGlobalSection
+EndGlobal
